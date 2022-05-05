@@ -74,3 +74,14 @@ li:hover {
 p {
     text-align: center;
 }
+
+figure {
+    width: 100vh;
+    height: 29%;
+    padding-top : 0;
+    margin-left: 0;
+}
+
+.fiche-metier ul {
+	display: block !important;
+}
